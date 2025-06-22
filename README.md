@@ -1,63 +1,70 @@
 # Data Analysis & Science Tools
 
+![GitHub repo size](https://img.shields.io/github/repo-size/andreGoncallez/data-analysis-tools)
+![GitHub license](https://img.shields.io/github/license/andreGoncallez/data-analysis-tools)
+![GitHub issues](https://img.shields.io/github/issues/andreGoncallez/data-analysis-tools)
+
 Bem-vindo ao repositório **📊 Power BI, R e Análises de Dados**!
 
-Este projeto foi criado para Analistas de Dados, Cientistas de Dados, Engenheiros de Dados e profissionais que atuam na área de dados, incluindo automação de análises, visualizações, modelagem estatística, previsibilidade e integração de múltiplas fontes de dados. Aqui você encontrará scripts, dashboards, modelos, utilitários e exemplos práticos para acelerar e padronizar tarefas do dia a dia na área de dados.
+Este projeto reúne recursos essenciais para profissionais da área de dados: Analistas, Cientistas, Engenheiros e demais interessados em automação, visualização, modelagem estatística, previsibilidade e integração de múltiplas fontes de dados. Aqui você encontrará scripts, dashboards, modelos, utilitários e exemplos práticos para acelerar e padronizar seu trabalho.
+
+## Índice
+
+- [🚀 Propósito](#-propósito)  
+- [⚙️ O que você encontra aqui](#-o-que-você-encontra-aqui)  
+- [🧰 Exemplos de Utilização](#-exemplos-de-utilização)  
+- [🔥 Para quem é este repositório?](#-para-quem-é-este-repositório)  
+- [💡 Como contribuir](#-como-contribuir)  
+- [📝 Licença](#-licença)  
+- [📫 Contato](#-contato)
 
 ## 🚀 Propósito
 
-Centralizar recursos úteis para facilitar, automatizar e padronizar o trabalho de análise e ciência de dados, abrangendo desde tarefas básicas de ETL e visualização até análises avançadas, previsibilidade e machine learning.
+Centralizar recursos úteis para facilitar, automatizar e padronizar o trabalho em análise e ciência de dados — desde ETL básico e visualizações até análises avançadas, previsibilidade e machine learning.
 
 ## ⚙️ O que você encontra aqui
 
-- **Dashboards & Visualizações**
-  - Exemplos de dashboards em Power BI, Tableau, scripts de visualização em Python (matplotlib, seaborn, plotly) e R (ggplot2, shiny).
-- **Modelos de Análise e Scripts**
-  - Scripts prontos em Python, R e DAX para análise exploratória, tratamento de dados, manipulação de dados (pandas/dplyr), cálculos e agregações.
-- **Automação de ETL**
-  - Scripts e utilitários para extração, transformação e carga de dados usando Python, Power Query, SQL, Airflow, entre outros.
-- **Modelos Estatísticos e Previsibilidade**
-  - Exemplos de modelos de regressão, séries temporais, classificação, clustering e scripts para análise de previsibilidade.
-- **DAX & Power BI**
-  - Medidas, colunas calculadas, exemplos complexos de DAX, templates de relatórios e boas práticas para Power BI.
-- **Machine Learning & IA**
-  - Scripts e notebooks para machine learning supervisionado/não supervisionado, pipelines de ML, validação cruzada, tuning de hiperparâmetros, deployment simples.
-- **Documentação e Boas Práticas**
-  - Modelos de documentação de projetos de dados, guias de versionamento, checklist de qualidade de dados, dicionário de dados, orientações para governança e segurança.
+- **Dashboards & Visualizações**: exemplos em Power BI, Tableau, Python (matplotlib, seaborn, plotly) e R (ggplot2, shiny).  
+- **Modelos e Scripts**: análises exploratórias, tratamento e manipulação de dados em Python, R e DAX.  
+- **Automação de ETL**: ferramentas para extração, transformação e carga usando Python, Power Query, SQL, Airflow.  
+- **Modelos Estatísticos e Previsibilidade**: regressão, séries temporais, classificação, clustering e muito mais.  
+- **DAX & Power BI**: medidas, colunas calculadas e templates para relatórios avançados.  
+- **Machine Learning & IA**: notebooks, pipelines, validação, tuning e deployment simples.  
+- **Documentação & Boas Práticas**: guias, checklists e orientações para qualidade e governança de dados.
 
 ## 🧰 Exemplos de Utilização
 
-- **Dashboard Power BI para acompanhamento de KPIs**
-- **Script em R para análise de séries temporais**
-- **Notebook Python para análise exploratória de dados (EDA)**
-- **Modelo preditivo de churn de clientes**
-- **DAX avançado para cálculo de YTD, MTD e Rolling Average**
-- **Automação de ingestão de dados de APIs em Python**
-- **Pipeline de ETL com Airflow**
-- **Template de documentação para projetos de dados**
+- Dashboard Power BI para KPIs  
+- Script em R para séries temporais  
+- Notebook Python para EDA  
+- Modelo preditivo de churn  
+- DAX avançado para cálculos financeiros  
+- Automação de ingestão de APIs  
+- Pipeline ETL com Airflow  
+- Templates para documentação de projetos
 
 ## 🔥 Para quem é este repositório?
 
-- Cientistas de Dados
-- Analistas de Dados e BI
-- Engenheiros de Dados
-- Profissionais de Business Intelligence
-- Estudantes de cursos e certificações na área de dados
-- Times de dados em empresas de todos os portes
-- Qualquer pessoa que queira acelerar, automatizar ou padronizar o trabalho com dados
+- Cientistas e Analistas de Dados  
+- Engenheiros e Profissionais de BI  
+- Estudantes e Times de Dados em empresas  
+- Qualquer pessoa que queira otimizar trabalho com dados
 
 ## 💡 Como contribuir
 
 Sua experiência é muito bem-vinda!  
-Se você possui scripts, dashboards, modelos, boas práticas, dicas ou sugestões que possam beneficiar a comunidade de dados, fique à vontade para enviar um pull request ou abrir uma issue.
+Envie pull requests com scripts, dashboards, dicas ou abra issues para sugestões.
+
+Antes de começar, leia nosso [Guia de Contribuição](CONTRIBUTING.md).
 
 ## 📝 Licença
 
-Este repositório é aberto para colaboração. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
----
+## 📫 Contato
 
-Mantenha este repositório nos seus favoritos e volte sempre que precisar de uma solução rápida para desafios do dia a dia em dados!
+- [LinkedIn](https://www.linkedin.com/in/andregoncallez)  
+- E-mail: andregoncallez@yahoo.com.br 
 
 ---
 
