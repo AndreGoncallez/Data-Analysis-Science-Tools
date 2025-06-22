@@ -1,6 +1,6 @@
 # Data Analysis & Science Tools
 
-Bem-vindo ao repositório **Data Analysis & Science Tools**!
+Bem-vindo ao repositório **📊 Power BI, R e Análises de Dados**!
 
 Este projeto foi criado para Analistas de Dados, Cientistas de Dados, Engenheiros de Dados e profissionais que atuam na área de dados, incluindo automação de análises, visualizações, modelagem estatística, previsibilidade e integração de múltiplas fontes de dados. Aqui você encontrará scripts, dashboards, modelos, utilitários e exemplos práticos para acelerar e padronizar tarefas do dia a dia na área de dados.
 
